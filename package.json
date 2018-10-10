@@ -1,0 +1,16 @@
+{
+  "name": "bot-vs-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "cleverbot.io": "^1.0.4",
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Hugo",
+  "license": "MIT"
+}

@@ -1,3 +1,5 @@
+config-private.js
+
 # Logs
 logs
 *.log
